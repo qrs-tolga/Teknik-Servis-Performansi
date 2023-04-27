@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\TeknikServisPerformansi\bin\Debug\TeknikServisPerformansi.exe.config
+C:\Users\Administrator\Desktop\TeknikServisPerformansi\bin\Debug\TeknikServisPerformansi.exe
+C:\Users\Administrator\Desktop\TeknikServisPerformansi\bin\Debug\TeknikServisPerformansi.pdb
+C:\Users\Administrator\Desktop\TeknikServisPerformansi\obj\Debug\TeknikServisPerformansi.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\TeknikServisPerformansi\obj\Debug\TeknikServisPerformansi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\TeknikServisPerformansi\obj\Debug\TeknikServisPerformansi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TeknikServisPerformansi\obj\Debug\TeknikServisPerformansi.exe
+C:\Users\Administrator\Desktop\TeknikServisPerformansi\obj\Debug\TeknikServisPerformansi.pdb
+C:\Users\tolga\Desktop\TeknikServisPerformansi\bin\Debug\TeknikServisPerformansi.exe.config
+C:\Users\tolga\Desktop\TeknikServisPerformansi\bin\Debug\TeknikServisPerformansi.exe
+C:\Users\tolga\Desktop\TeknikServisPerformansi\bin\Debug\TeknikServisPerformansi.pdb
+C:\Users\tolga\Desktop\TeknikServisPerformansi\obj\Debug\TeknikServisPerformansi.csproj.AssemblyReference.cache
+C:\Users\tolga\Desktop\TeknikServisPerformansi\obj\Debug\TeknikServisPerformansi.csproj.SuggestedBindingRedirects.cache
+C:\Users\tolga\Desktop\TeknikServisPerformansi\obj\Debug\TeknikServisPerformansi.csproj.CoreCompileInputs.cache
+C:\Users\tolga\Desktop\TeknikServisPerformansi\obj\Debug\TeknikServisPerformansi.exe
+C:\Users\tolga\Desktop\TeknikServisPerformansi\obj\Debug\TeknikServisPerformansi.pdb
